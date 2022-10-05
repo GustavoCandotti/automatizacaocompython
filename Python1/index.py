@@ -20,7 +20,7 @@ pyautogui.click(x=1774, y=282, clicks=2)
 time.sleep(3)
 pyautogui.click(x=2041, y=173, clicks=1) #clicando nos tres pontinhos.
 time.sleep(3)
-pyautogui.click(x=2065, y=555, clicks=1) #clicando no fazer dowload.
+pyautogui.click(x=2065, y=555, clicks=1) #clicando no fazer dowload
 time.sleep(5) #esperar o dowload acabar.
 
 #Passo 4: Importar a base de vendas pro Python.
